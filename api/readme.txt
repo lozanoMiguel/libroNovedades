@@ -1,0 +1,1 @@
+Con esta apirest hecha en nodeJs con paquetes de express y mysql. Conectamos la base de datos con nuestro proyecto web del libro de novedades

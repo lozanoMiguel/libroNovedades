@@ -1,0 +1,18 @@
+{
+  "name": "apilibronovedades",
+  "version": "1.0.0",
+  "description": "Con esta apirest hecha en nodeJs con paquetes de express y mysql. Conectamos la base de datos con nuestro proyecto web del libro de novedades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
